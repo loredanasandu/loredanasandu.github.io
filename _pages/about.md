@@ -2,24 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: loredana.jpg
+  image_circular: true # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a last-year Bachelor's student in Mathematics at the Autonomous University of Barcelona, Spain. I am currently a Research Intern at the [Centre for Research in Agricultural Genomics (CRAG)](https://www.cragenomica.es/), working on the development of deep learning models with applications in fruit genomics. More specifically, I am focusing on developing hybrid models of Convolutional Neural Networks (CNNs) and Feed Forward Neural Networks (FFNNs) to extract patterns of SNPs and predict quantitative traits. I am also conducting research for my Bachelor's Thesis under the supervision of [Dr. Pilar Dellunde](https://www.uab.cat/web/el-departament/pilar-dellunde-1260171823608.html), focusing on the use of fuzzy-logical operators to develop interpretable neural network models.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I have recently returned from studying at the University of Vienna for half a year, focusing mainly on Quantum Information, Complex Networks and Biomathematics (for a while, my colleague Aäron Roex and I became slightly obsessed with [extending the SIR model through Branching Processes](https://github.com/loredanasandu/sir-branching-processes)).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In my _free time_, I build stuff with a fair amount of coding, ask myself questions out of curiosity and answer them with data. I also devote time to listening to people, reading about others' insights, getting to know new places, armchair philosophy, writing, discovering new art, classical music, spending time with nature, biographies, philosophical novels, insightful conversations, great coffee, and even greater tea. Throughout my lifetime, I've learnt and continue learning voraciously about a broad range of topics including economy, contemporary history, biology, ancient Greek and Roman culture, law (and especially Roman law), Esperanto, philosophy, human behaviour, physics and artificial intelligence. I seek to continue exercising my curiosity while discovering and building new things. Also, develop my focus on things that are worth it, and trying not to let my attention span decrease.
+
+Born in Moldova, I moved to Spain at a very early age, and grew up there.
