@@ -11,15 +11,17 @@ profile:
   address: >
 
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a final-year Bachelor's student in Mathematics at the Autonomous University of Barcelona, Spain. I am currently a Research Intern at the [Centre for Research in Agricultural Genomics (CRAG)](https://www.cragenomica.es/), working on the development of deep learning models with applications in plant genomics. More specifically, I am focusing on developing models based on Convolutional Neural Networks (CNNs), Variational Autoencoders (VAEs) and Transformers to extract patterns of SNPs and predict quantitative traits. I am also conducting research for my Bachelor's Thesis under the supervision of [Dr. Pilar Dellunde](https://www.iiia.csic.es/es/people/person/?person_id=35) (researcher at [IIIA-CSIC](https://www.iiia.csic.es/)), focusing on the applications of fuzzy set theory to Explainable AI.
+I am a Master's student in Computational and Mathematical Engineering at the University of Rovira i Virgili, specializing in mathematical modeling and simulation, artificial intelligence and operations research. 
 
-I have recently returned from studying at the University of Vienna for half a year, focusing mainly on Quantum Information, Complex Networks and Biomathematics (for a while, my colleague Aäron Roex and I became slightly obsessed with [extending the SIR model through Branching Processes](https://github.com/loredanasandu/sir-branching-processes)).
+I completed my Bachelor's Degree in Mathematics at the Autonomous University of Barcelona. For my Bachelor's Thesis, I conducted research on the applications of fuzzy set theory to Explainable AI, with the supervision of [Prof. Pilar Dellunde](https://www.iiia.csic.es/es/people/person/?person_id=35) (researcher at [IIIA-CSIC](https://www.iiia.csic.es/)) and [Prof. Wolfgang Pitsch](https://mat.uab.cat/~pitsch/). I also worked as a Research Intern at the [Centre for Research in Agricultural Genomics (CRAG)](https://www.cragenomica.es/),, focusing on the development of deep learning models with applications in plant genomics.
 
-In my _free time_, I build stuff with a fair amount of coding, ask myself questions out of curiosity and answer them with data. I also devote time to listening to people, reading about others' insights, getting to know new places, armchair philosophy, writing, discovering new art, classical music, spending time with nature, biographies, philosophical novels, insightful conversations, great coffee, and even greater tea. Throughout my lifetime, I've learnt and continue learning voraciously about a broad range of topics including economics, contemporary history, biology, ancient Greek and Roman culture, law (and especially Roman law), Esperanto, philosophy, human behaviour, physics and artificial intelligence. I seek to continue exercising my curiosity while discovering and building new things. Also, developing my focus on things that are worth it, and trying not to let my attention span decrease.
+During my undergraduate studies, I spent a semester at the University of Vienna, diving into Quantum Information, Complex Networks and Biomathematics (for a while, my colleague Aäron Roex and I became slightly obsessed with [extending the SIR model through Branching Processes](https://github.com/loredanasandu/sir-branching-processes)).
 
-Born in Moldova, I moved to Spain at a very early age, where I grew up.
+In my free time, I build stuff with a fair amount of coding, ask myself questions out of curiosity and answer them with data. I also devote time to listening to people, armchair philosophy, discovering new art, nature, great coffee, and learning about new technology. Throughout my lifetime, I’ve learnt and continue learning voraciously about a broad range of topics including economics, contemporary history, ancient Greek and Roman culture, law (and especially Roman law), Esperanto, philosophy, cognitive science, physics, and artificial intelligence.
+
+Born in Moldova, I moved to Spain at a very early age and grew up there.
